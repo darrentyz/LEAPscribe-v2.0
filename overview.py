@@ -1,10 +1,10 @@
 import streamlit as st
-from core.auth import require_password
 
-st.set_page_config(page_title="LEAPscribe — RAG Case Study Wizard", page_icon="🪄", layout="wide")
-require_password()
 
-st.title("🪄 LEAPscribe — RAG Case Study Wizard")
+st.set_page_config(page_title="LEAPscribe — RAG Case Study Wizard", page_icon="🧙‍♂️", layout="wide")
+
+
+st.title("🧙‍♂️ LEAPscribe — RAG Case Study Wizard for WOG Finance")
 
 st.markdown(
 """
