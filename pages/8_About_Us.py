@@ -84,7 +84,7 @@ LEAPscribe is an AI-assisted case study wizard that:
 - Drafts a polished, visually engaging case study  
 - Generates visuals/diagrams to bring the story to life  
 - Maps the case study to finance capabilities and best practice statements
-- **[Bonus] Chat with your generated case study or with your artefacts uploaded
+- **[Bonus]** Chat with your generated case study or with your artefacts uploaded
 
 ### Outcomes
 
