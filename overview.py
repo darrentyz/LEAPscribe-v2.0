@@ -19,8 +19,8 @@ Use the sidebar or the step pages to move through the journey:
 4. Generate Visuals  
 5. Map Capabilities & Best Practices  
 6. Summary & Download  
-7. Chat with Your Case Study & Materials  
-8. About Us  
-9. Methodology
+Chat with Your Case Study & Materials  
+About Us  
+
 """
 )
