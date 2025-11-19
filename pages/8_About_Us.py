@@ -8,7 +8,7 @@ st.title("ℹ️ About Us")
 
 # 👉 Update these paths if your images are elsewhere
 PROCESS_FLOW_IMG = "/mnt/data/f8ad487b-6b1f-4432-a8ed-ad52e516c92a.png"
-ARCHITECTURE_IMG = "/mnt/data/9f053c1d-d5ce-4f5d-ad86-55d5a16616ff.png"
+ARCHITECTURE_IMG = "/data/architecture.png"
 
 # ---- Helpers to render diagrams when images aren't available ----
 def render_process_flow():
