@@ -69,4 +69,4 @@ Return **Markdown only**.
 st.divider()
 if st.session_state.get("case_markdown"):
     if st.button("Next → Generate Visuals"):
-        next_page("pages/4_Generate_Visuals.py")
+        next_page("pages/4_4️⃣Generate_Visuals.py")

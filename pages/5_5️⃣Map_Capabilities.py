@@ -85,4 +85,4 @@ if st.session_state.get("selected_best_practices"):
 st.divider()
 if st.session_state.get("selected_best_practices"):
     if st.button("Next → Summary & Download"):
-        next_page("pages/6_Summary_&_Download.py")
+        next_page("pages/6_6️⃣Summary_&_Download.py")

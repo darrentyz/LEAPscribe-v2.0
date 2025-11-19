@@ -81,4 +81,4 @@ if st.session_state.get("cover_image") or st.session_state.get("diagram_images")
 
 st.divider()
 if st.button("Next → Map Capabilities"):
-    next_page("pages/5_Map_Capabilities.py")
+    next_page("pages/5_5️⃣Map_Capabilities.py")

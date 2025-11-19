@@ -10,7 +10,7 @@ require_password()
 
 st.title("📤 Step 1 — Upload & Analyze")
 
-with st.expander("Admin actions"):
+with st.expander("Clear Knowledge Base"):
     if st.button("🧹 Reset Knowledge Base (clear vector index)"):
         clear_index()
         st.session_state.pop("missing_questions", None)
@@ -75,4 +75,4 @@ Return only bullet questions (can be 0, max 3).
 st.divider()
 if st.session_state.get("missing_questions"):
     if st.button("Next → Fill Missing Info"):
-        next_page("pages/2_Fill_Missing_Info.py")
+        next_page("pages/2_2️⃣Fill_Missing_Info.py")

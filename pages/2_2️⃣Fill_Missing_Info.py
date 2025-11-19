@@ -26,4 +26,4 @@ if submitted:
 st.divider()
 if st.session_state.get("answers"):
     if st.button("Next → Draft Case Study"):
-        next_page("pages/3_Draft_Case_Study.py")
+        next_page("pages/3_3️⃣Draft_Case_Study.py")
